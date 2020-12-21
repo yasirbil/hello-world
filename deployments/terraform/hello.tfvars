@@ -1,7 +1,0 @@
-google_domain_name = "yasirbilgin.com"
-google_project_name = "My First Project"
-google_project_id = "keen-ripsaw-283721"
-google_bucket_name = "fuchicorp-yasir-bucket"
-deployment_name = "common_tools"
-deployment_environment = "dev"
-credentials = "common-service-account.json"
